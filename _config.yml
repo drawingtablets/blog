@@ -119,7 +119,7 @@ safe: false
 highlighter: pygments
 title: Tavoletta Grafica
 description: tavoletta-grafica
-theme: kunka
+theme: jekyll-theme-merlot
 
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
