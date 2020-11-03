@@ -36,26 +36,8 @@ StrayBirds
 
 **修改主题后, 按照配置中说的方法修改项目名称可能会加快这一进程**
 
-可选主题包括：
 
-- hack
-	![hack-demo](/images/hack-demo.png)
-- leap-day
-	![leap-day-demo](/images/leap-day-demo.png)
-- merlot
-	![merlot-demo](/images/merlot-demo.png)
-- midnight
-	![midnight-demo](/images/midnight-demo.png)
-- minimal
-	![minimal-demo](/images/minimal-demo.png)
-- modernist
-	![modernist-demo](/images/modernist-demo.png)
-- slate
-	![slate-demo](/images/slate-demo.png)
-- time-machine
-	![time-machine-demo](/images/time-machine-demo.png) 
-- kunka
-	![kunka-demo](/images/kunka-demo.png)
+
 
 * 修改项目名
 
