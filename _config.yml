@@ -46,7 +46,7 @@ timezone:      null
 title: Jekyll Theme
 description: Just another Jekyll theme design and code by zhanxin.info.
 keywords: Jekyll Theme
-url: /StrayBirds
+url: /blog
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 
@@ -107,10 +107,7 @@ customLinks:
       url: http://jquery.com/
     message: 其他相关链接
 
-#comment config
-disqus:
-  config: false
-  id: minixalpha
+
 
 
 #################################### global configure #######################################
@@ -123,7 +120,7 @@ highlighter: pygments
 title: Tavoletta Grafica
 description: tavoletta-grafica
 theme: kunka
-disqusname: minixalpha
+
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes
