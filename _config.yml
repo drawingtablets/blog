@@ -115,13 +115,13 @@ disqus:
 
 #################################### global configure #######################################
 
-username: minixalpha
+username: tavoletta-grafica
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 人生到处知何似，应似飞鸿踏雪泥
+title: Tavoletta Grafica
+description: tavoletta-grafica
 theme: kunka
 disqusname: minixalpha
 
